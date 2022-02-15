@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Search.png</file>
+        <file>sort-icon-png-14.jpg</file>
+    </qresource>
+</RCC>
