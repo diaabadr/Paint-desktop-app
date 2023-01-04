@@ -1,4 +1,4 @@
-Made with QT C++.
+It's made using QT C++.
 
 •	Project for drawing shapes (Square, Circle, Line) by Mouse or written dimensions in dialog.
 
