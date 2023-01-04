@@ -1,5 +1,6 @@
+Made with QT C++.
 
-•	In this Application we can draw shapes (Square, Circle, Line) by Mouse or written dimensions in dialog.
+•	Project for drawing shapes (Square, Circle, Line) by Mouse or written dimensions in dialog.
 
 •	We can change Pen Colour, Pen Size. 
 
